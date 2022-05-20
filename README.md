@@ -1,4 +1,4 @@
-ooops, bad line 1
+new first line
 very, very bad think here.
 
 simple text

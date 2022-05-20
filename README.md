@@ -1,6 +1,8 @@
 #demo project readme
 
 simple text
-more text
 
 and more
+
+
+move text to bottom and edited
